@@ -1,1 +1,1 @@
-# Dyanamite-Gal
+# Dynamite-Gal
